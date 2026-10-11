@@ -1,0 +1,59 @@
+
+[
+    {
+        "id": 1,
+        "name": "花鸟贝雕",
+        "category": "花鸟",
+        "material": "天然贝壳、木质底板",
+        "description": "以贝壳天然的光泽和纹理表现花鸟形象，体现传统工艺对细节与层次的追求。",
+        "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=600"
+    },
+    {
+        "id": 2,
+        "name": "山水贝雕",
+        "category": "山水",
+        "material": "贝壳、装饰底板",
+        "description": "借助不同材质的色泽与层次表现山水意境，展现传统装饰艺术的审美特色。",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600"
+    },
+    {
+        "id": 3,
+        "name": "人物贝雕",
+        "category": "人物",
+        "material": "天然贝壳、木质底板",
+        "description": "以细致的造型表现人物形象，让观众通过作品了解传统工艺的造型语言。",
+        "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01aa342?w=600"
+    },
+    {
+        "id": 4,
+        "name": "花卉纹样",
+        "category": "花鸟",
+        "material": "贝壳、装饰底板",
+        "description": "围绕花卉纹样进行装饰设计，体现传统工艺对自然形态的观察与提炼。",
+        "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=600"
+    },
+    {
+        "id": 5,
+        "name": "山海意境",
+        "category": "山水",
+        "material": "天然贝壳、复合底板",
+        "description": "以自然景观为灵感进行艺术化表达，适合用于数字展示平台的作品浏览演示。",
+        "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=600"
+    },
+    {
+        "id": 6,
+        "name": "传统人物纹样",
+        "category": "人物",
+        "material": "贝壳、装饰底板",
+        "description": "通过人物纹样展示传统工艺的构图方式和装饰特点。",
+        "image": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=600"
+    },
+    {
+        "id": 7,
+        "name": "牡丹花贝雕",
+        "category": "花鸟",
+        "material": "天然贝壳、装饰底板",
+        "description": "以牡丹花为主题，展示传统装饰工艺对花卉形态和细节的表现。",
+        "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=600"
+    }
+]
